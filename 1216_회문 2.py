@@ -39,3 +39,6 @@ for tc in range(1,11):
         if palindrome(M, arr):
             print(f'#{tc} {M}')
             break
+
+
+# 깃 사용 예시 테스트
